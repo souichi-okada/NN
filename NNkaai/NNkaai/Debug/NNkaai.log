@@ -1,0 +1,3 @@
+﻿  ソース.cpp
+C:\島研\NN\NNkaai\NNkaai\ソース.cpp(57,52): warning C4390: ';': 制御が空の文が見つかりました。意図した記述でしょうか?
+  NNkaai.vcxproj -> C:\島研\NN\NNkaai\Debug\NNkaai.exe
